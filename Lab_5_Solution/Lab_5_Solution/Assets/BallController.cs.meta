@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5c2b0adb489eee14dbdc45e72e54433c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bowlingBallPrefab: {instanceID: 0}
+  - bowlingStrike: {fileID: 8300000, guid: 3bb3c329f71b5a2479a5794b32db11e4, type: 3}
+  - rollingClip: {fileID: 8300000, guid: 84c131d4703b9a04f8647c70e05409c4, type: 3}
+  - hitBallClip: {fileID: 8300000, guid: 2b3fd6405d39baa41bef12cd2aeacb99, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
